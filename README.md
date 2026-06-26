@@ -4,7 +4,6 @@ Automated Detection of Retinal Diseases from OCT Images Using MobileNetV2 Transf
 
 A deep learning system that classifies **retinal OCT scans** into 4 categories using **MobileNetV2 transfer learning**, deployed as a **Streamlit** web application.
 
-> Based on the [SPOTLESS TECH YouTube playlist](https://youtube.com/playlist?list=PLvz5lCwTgdXD2X0Y9wkq02DbMEZyJ5kav)
 
 ---
 
