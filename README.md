@@ -46,9 +46,9 @@ eye_disease_project/
 
 ## ⚙️ Setup
 
-### 1. Clone / copy the project
+### 1. Open the project
 ```bash
-cd eye_disease_project
+cd Retina-Vision-AI
 ```
 
 ### 2. Create a virtual environment (recommended)
