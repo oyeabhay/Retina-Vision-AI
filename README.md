@@ -180,3 +180,23 @@ Typical results on the OCT2017 test set:
 ## 📜 License
 
 For educational and research purposes. Dataset credits to the original authors of the [Kaggle OCT2017 dataset](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct).
+
+https://github.com/user-attachments/assets/2ab92027-8ad8-4c93-b16e-f7a085e884a2
+
+<img width="1920" height="1724" alt="Image" src="https://github.com/user-attachments/assets/a90db932-2b46-4706-b9b0-68934a288d8f" />
+
+<img width="1920" height="1754" alt="Image" src="https://github.com/user-attachments/assets/f5af268b-7d17-4716-815a-6e87818bc2e6" />
+
+<img width="1920" height="1002" alt="Image" src="https://github.com/user-attachments/assets/9786de88-855d-4c64-9446-42ada974b4fe" />
+
+<img width="1916" height="1007" alt="Image" src="https://github.com/user-attachments/assets/21f3d051-209c-446d-8d29-309c68a72bff" />
+
+<img width="1171" height="782" alt="Image" src="https://github.com/user-attachments/assets/fe70f873-e442-40e7-96e9-53b8cd7fa4ff" />
+
+<img width="1207" height="532" alt="Image" src="https://github.com/user-attachments/assets/8be33e4c-f4f3-4081-a9e9-8c8a96038f73" />
+
+<img width="1920" height="1590" alt="Image" src="https://github.com/user-attachments/assets/6ee35152-d2c6-4519-96fc-77ccd3ac5ce9" />
+
+<img width="1766" height="807" alt="Image" src="https://github.com/user-attachments/assets/9d5afc99-4d52-4a27-9868-8558f7e222f8" />
+
+<img width="1068" height="627" alt="Image" src="https://github.com/user-attachments/assets/10deb8f1-58b2-4f59-b94d-d789ce5c8218" />
